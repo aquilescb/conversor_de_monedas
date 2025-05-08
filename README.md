@@ -6,6 +6,8 @@ Este proyecto fue desarrollado como parte del curso de **Oracle Next Education (
 - Manejo de excepciones
 - Estructuración de proyectos y archivos de configuración
 
+🌐 [English version available here](README_EN.md)
+
 **Objetivo:** Aplicar estos conocimientos en un caso practico: consumir una API de tasas de cambio y realizar la conversión de monedas en tiempo real desde una aplicación Java.
 
 El programa presenta la conversion de una moneda a otra, el historial de todas las monedas convertida y una guia de entrada de datos para todas las combinaciones posibles de monedas.
@@ -49,4 +51,3 @@ Desde IntelliJ IDEA
 Si preferís ver el paso a paso, mirá este video donde se explica cómo usar el proyecto desde cero:
 
 📹 Ver el video en YouTube [VIDEO](https://www.youtube.com/watch?v=cebbVvV_q2Q)
-
