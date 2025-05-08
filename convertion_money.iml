@@ -12,7 +12,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../../Programas/Proyects Estructure Java/gson/gson-2.13.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../Proyect Structure/gson-2.13.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

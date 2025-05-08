@@ -8,6 +8,8 @@ Este proyecto fue desarrollado como parte del curso de **Oracle Next Education (
 
 **Objetivo:** Aplicar estos conocimientos en un caso practico: consumir una API de tasas de cambio y realizar la conversión de monedas en tiempo real desde una aplicación Java.
 
+El programa presenta la conversion de una moneda a otra, el historial de todas las monedas convertida y una guia de entrada de datos para todas las combinaciones posibles de monedas.
+
 ---
 ## Como conseguir tu API
 1. Ingresá a [Exchangerate](https://www.exchangerate-api.com/)
@@ -38,7 +40,7 @@ API_KEY=TU_CLAVE_AQUI
    - Aplica los cambio
 
 ---
-## Ejecutar el programa
+## ▶️ Ejecutar el programa
 Desde IntelliJ IDEA
 1. Asegurate de tener `config.properties` accesible en el classpath.
 2. Ejecutá la clase `ConversorApp`
@@ -46,5 +48,5 @@ Desde IntelliJ IDEA
 ## 🎥 Video tutorial 
 Si preferís ver el paso a paso, mirá este video donde se explica cómo usar el proyecto desde cero:
 
-📹 Ver el video en YouTube [Youtube] (https://www.youtube.com/watch?v=cebbVvV_q2Q)
+📹 Ver el video en YouTube [VIDEO](https://www.youtube.com/watch?v=cebbVvV_q2Q)
 
